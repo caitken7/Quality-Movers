@@ -1,6 +1,6 @@
 # Quality Movers
 A landing page for [Quality Movers](http://www.caseyaitken.com/Quality-Movers/).
-![Screen Shots](assets/images/screen1.png)
+![Screen Shot](assets/images/screen1.png)
 
 
 ## Tools and Technologies
