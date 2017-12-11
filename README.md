@@ -5,7 +5,7 @@ A landing page for [Quality Movers](http://www.caseyaitken.com/Quality-Movers/).
 
 
 ## Tools and Technologies
-* HTML5, 
+* HTML5
 * CSS3
 * Bootstrap
 * jQuery
