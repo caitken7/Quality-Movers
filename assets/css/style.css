@@ -9,7 +9,8 @@ html,body {
 	max-width: 100%;
 }
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
 	font-size: 20px;
 	color: white;
 	line-height: 34px;
@@ -196,7 +197,7 @@ footer {
 .navbar {
 	margin-bottom: 0;
 	padding-top: 0;
-	background: linear-gradient(to left, rgba(5,70,65,1.00), rgba(35,35,35,1.00));
+	background: linear-gradient(rgb(255, 255, 255), rgb(201, 201, 201));
 	border: 0;
 	-moz-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1);
 	-webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1);
@@ -206,14 +207,16 @@ footer {
 }
 
 ul.navbar-nav {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
 	font-size: 14px;
 	color: white !important;
 	font-weight: 400;
 	text-transform: uppercase;
 }
 
-ul.navbar-nav li a { background: none; color: #888; border: 0; }
+ul.navbar-nav li a { background: none; color: rgba(5,70,65,1.00) !important; border: 0; }
+#quoteButton { color: white !important}
 ul.navbar-nav li a:hover { background: none; color: #aaa; border: 0; }
 ul.navbar-nav li a:focus { background: none; color: #aaa; outline: 0; border: 0; }
 
@@ -231,7 +234,8 @@ ul.navbar-nav li a.btn-link-3 {
 	padding: 6px 15px;
 	background: #6eba3c;
 	border: 0;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
 	font-size: 14px;
 	font-weight: 300;
 	color: #fff;
@@ -329,7 +333,8 @@ ul.navbar-nav li a.btn-link-3:active:focus { outline: 0; background: #63a736; co
 	padding: 6px 15px;
 	background: #6eba3c;
 	border: 0;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
 	font-size: 20px;
 	font-weight: 300;
 	color: #fff;
